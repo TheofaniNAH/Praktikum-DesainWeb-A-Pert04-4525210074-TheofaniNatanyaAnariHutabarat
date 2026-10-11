@@ -78,13 +78,20 @@ Menampilkan informasi hak cipta website.
 
 ## Hasil Tampilan ##
 
+tampilan INDEX.HTML
 ![Screenshot tampilan INDEX.HTML :](IMAGES/OUTPUTINDEX.png)
-![Screenshot tampilan HOME :](IMAGES/OUTPUTHOME.png')
-![Screenshot tampilan LAYANAN :](IMAGES/OUTPUTLAYANAN.png')
-![Screenshot tampilan KONTAK :](IMAGES/OUTPUTKONTAK.png')
-![Screenshot tampilan EMAIL :](IMAGES/OUTPUTEMAIL.png')
-![Screenshot tampilan INSTAGRAM :](IMAGES/OUTPUTINSTAGRAM.png')
-![Screenshot tampilan YOUTUBE :](IMAGES/OUTPUTYOUTUBE.png')
+tampilan HOME
+![Screenshot tampilan HOME :](IMAGES/OUTPUTHOME.png)
+tampilan LAYANAN
+![Screenshot tampilan LAYANAN :](IMAGES/OUTPUTLAYANAN.png)
+tampilan KONTAK
+![Screenshot tampilan KONTAK :](IMAGES/OUTPUTKONTAK.png)
+tampilan EMAIL
+![Screenshot tampilan EMAIL :](IMAGES/OUTPUTEMAIL.png)
+tampilan INSTAGRAM
+![Screenshot tampilan INSTAGRAM :](IMAGES/OUTPUTIG.png)
+tampilan YOUTUBE
+![Screenshot tampilan YOUTUBE :](IMAGES/OUTPUTYOUTUBE.png)
 
 ## Kesimpulan ##
 Landing Page Arunika Studio berhasil dibuat menggunakan HTML dan CSS dengan tujuan menampilkan informasi layanan secara sederhana, menarik, dan responsif. Struktur halaman yang terdiri dari Header, Hero Section, Layanan, Kontak, dan Footer membuat informasi tersusun dengan rapi dan mudah dipahami oleh pengguna. CSS digunakan untuk mengatur tampilan visual, warna, tata letak, serta memberikan efek responsive melalui media query. Penerapan reusable class membantu mengurangi penulisan kode yang berulang, sedangkan penggunaan box model mempermudah pengaturan jarak dan tata letak elemen pada halaman. Selain itu, fitur navigasi internal memudahkan pengguna untuk berpindah ke setiap bagian website dengan cepat. Pengujian pada desktop dan mobile menunjukkan bahwa tampilan website tetap nyaman digunakan pada berbagai ukuran layar. Melalui proyek ini, pemahaman mengenai struktur HTML, styling CSS, responsive web design, dan pengelolaan layout website menjadi semakin baik.
